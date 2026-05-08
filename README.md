@@ -131,9 +131,9 @@ meta_learner = Ridge()
 
 ---
 
-## 📈 Visualizations
 
-> Upload screenshots from your notebook to `/assets/` and they render automatically here
+**
+## 📈 Visualizations
 
 ### Actual vs. Predicted — Hybrid Ensemble
 ![Hybrid Model Predictions](assets/hybrid_predictions.png)
@@ -141,13 +141,8 @@ meta_learner = Ridge()
 ### Actual vs. Predicted — XGBoost
 ![XGBoost Predictions](assets/xgboost_predictions.png)
 
-### Residual Analysis — Hybrid Model
-![Residual Analysis](assets/residual_analysis.png)
-
-### Rent Price Distribution (Delhi Dataset)
-![Rent Distribution](assets/rent_distribution.png)
-
-> 📸 *To add your plots: export figures from notebook → upload to `/assets/` folder*
+### Actual vs. Predicted — RandomForest
+![RandomForest Predictions](assets/rf_predictions.png)
 
 ---
 
