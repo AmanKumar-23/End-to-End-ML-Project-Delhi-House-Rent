@@ -18,10 +18,11 @@
   RandomForest · XGBoost · Hybrid Stacking · R² = 0.97
 </p>
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AmanKumar-23/End-to-End-ML-Project-Delhi-House-Rent/blob/main/Delhi_House_Rent_Price_Prediction.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AmanKumar-23/End-to-End-ML-Project-Delhi-House-Rent/blob/main/Ensemble_model_Delhi_House_Rent_Price_Prediction.ipynb)
 &nbsp;
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link.streamlit.app)
-
+&nbsp;
+[![Open in nbviewer](https://img.shields.io/badge/View-nbviewer-orange?style=for-the-badge&logo=jupyter)](https://nbviewer.org/github/AmanKumar-23/End-to-End-ML-Project-Delhi-House-Rent/blob/main/Ensemble_model_Delhi_House_Rent_Price_Prediction.ipynb)
 ---
 
 </div>
